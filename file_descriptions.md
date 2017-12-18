@@ -2,7 +2,7 @@
 
 #### 6_fasttext_predictions
 
-Contains files related to a stretch activity trying a different machine learning library for author id
+Contains files related to a stretch activity trying a different machine learning library for author id/text classification 
 
 
 
