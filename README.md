@@ -18,7 +18,8 @@ Predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shel
 **Notes:**
 
 * Uses Kaggle dataset for the Spooky Author Competition (https://www.kaggle.com/c/spooky-author-identification)
-* The NLTK library requires an additional download. See Interactive Installer in <http://www.nltk.org/data.html>  for more information.
+* The NLTK library requires an additional download. See Interactive Installer in (http://www.nltk.org/data.html) for more information.
+* The fastText library requires an additional download. See Installation instructions in (https://github.com/facebookresearch/fastText) for more infomration
 * A description of the files contained in this repo can be found in file_descriptions.txt
 
 
